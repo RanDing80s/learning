@@ -58,7 +58,7 @@
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
 
-*[相关操作系统](#操作系统相关)
+* [相关操作系统](#操作系统相关)
   * [OSX EI Capitan](#OSX EI Capitan)
 
 ## 语言无关
