@@ -57,7 +57,7 @@
   * [Swift](#swift)
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
-
+  * [os](#os)
 ## 语言无关
 
 ### MySQL
@@ -645,4 +645,4 @@
 
 
 ### OS
-* [EI Capitan论坛]
+* [EI Capitan论坛](http://bbs.pcbeta.com/forum-554-1.html)
