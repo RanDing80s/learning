@@ -58,9 +58,6 @@
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
 
-* [操作系统](#OS)
-  * [OSX EI Capitan](#osx)
-
 ## 语言无关
 
 ### MySQL
@@ -192,7 +189,7 @@
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://vbird.dic.ksu.edu.tw/linux_server/)
-
+* [OSX EI Capitan](http://bbs.pcbeta.com/forum-554-1.html)
 
 ### 数据库
 
@@ -648,4 +645,4 @@
 
 
 ### OS
-* [EI Capitan论坛](http://bbs.pcbeta.com/forum-554-1.html)
+* [EI Capitan论坛]
