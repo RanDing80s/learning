@@ -58,8 +58,8 @@
   * [Vim](#vim)
   * [Visual Prolog](#visual-prolog)
 
-* [相关操作系统](#操作系统相关)
-  * [OSX EI Capitan](#OSX-EI-Capitan)
+* [相关操作系统](#Operation-System)
+  * [OSX EI Capitan](#OSX)
 
 ## 语言无关
 
@@ -647,5 +647,6 @@
 * [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
 
 
-### OSX EI Capitan
-* [EI Capitan论坛](http://bbs.pcbeta.com/forum-554-1.html)
+### Operation System
+* [OSX EI Capitan](### OSX)
+  * [EI Capitan论坛](http://bbs.pcbeta.com/forum-554-1.html)
